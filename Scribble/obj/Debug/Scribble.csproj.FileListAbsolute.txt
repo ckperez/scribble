@@ -1,0 +1,9 @@
+C:\repos\Scribble\Scribble\bin\Debug\Scribble.exe.config
+C:\repos\Scribble\Scribble\bin\Debug\Scribble.exe
+C:\repos\Scribble\Scribble\bin\Debug\Scribble.pdb
+C:\repos\Scribble\Scribble\obj\Debug\Scribble.csprojResolveAssemblyReference.cache
+C:\repos\Scribble\Scribble\obj\Debug\Scribble.Form1.resources
+C:\repos\Scribble\Scribble\obj\Debug\Scribble.Properties.Resources.resources
+C:\repos\Scribble\Scribble\obj\Debug\Scribble.csproj.GenerateResource.Cache
+C:\repos\Scribble\Scribble\obj\Debug\Scribble.exe
+C:\repos\Scribble\Scribble\obj\Debug\Scribble.pdb
